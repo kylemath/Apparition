@@ -18,5 +18,5 @@ Instructions:
 Tactics:
 * Convert video into side by side images of video and face structure
 * Train model on these side by side images to predict DelClose from Face pose
-* Use live webam to get net face structure
+* Use live webam to get new face structure
 * Convert new face structure to DelClose pose with model in real time
