@@ -1,5 +1,7 @@
 ## DelCloseBot
 
+![](delclosekyle.gif)
+
 Goal is to make a DelCloseBot using old youtube footage. Will have live actor filmed with webcam during show whose pose gets transformed into real time DelClose Poses shown to audience, with voice impressonation reading lines scripted from dialogue AI. 
 
 
