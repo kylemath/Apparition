@@ -2,7 +2,7 @@
 
 ![](delclosekyle.gif)
 
-Goal is to make a Apparition using old youtube footage. Will have live actor filmed with webcam during show whose pose gets transformed into real time Face Poses shown to audience, with voice impressonation reading lines scripted from dialogue AI. 
+Goal is to make a Apparition using old youtube footage. Will have live actor filmed with webcam during show whose pose gets transformed into real time Apparition Poses shown to audience, with voice impressonation reading lines scripted from dialogue AI. 
 
 
 *   Using https://github.com/datitran/face2face-demo
@@ -21,4 +21,4 @@ Tactics:
 * Convert video into side by side images of video and face structure
 * Train model on these side by side images to predict DelClose from Face pose
 * Use live webam to get new face structure
-* Convert new face structure to DelClose pose with model in real time
+* Convert new face structure to Apparition pose with model in real time
